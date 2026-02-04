@@ -7,7 +7,7 @@
 <!-- Image/GIF animé (optionnel) -->
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-## 🌱 Développeur en Apprentissage
+## 🌱 Développeur Mobile & Web
 
 > *"Le voyage de mille lignes de code commence par un seul commit"*
 
@@ -42,7 +42,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![VS Studio ](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio&logoColor=white)
+
 
 <!-- Alternative avec Skillicons (plus moderne) -->
 
@@ -70,7 +70,7 @@
 
 ## 🎯 Ce sur quoi je travaille actuellement
 
-- 📚 Apprentissage de HTML, CSS JavaScript et React Js | Mobile : .Net Maui
+- 📚 Apprentissage de HTML, CSS JavaScript et React Js | Mobile : .Net Maui & Flutter 
 - 💻 Création de projets pratiques pour solidifier mes connaissances
 - 🌐 Construction de mon premier site web portfolio
 - 📖 Lecture de documentation et tutoriels
