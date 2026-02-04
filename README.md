@@ -13,14 +13,14 @@
 
 ### 👨‍💻 À Propos de Moi
 
-- 🎓 Je suis actuellement en train d'apprendre **HTML, CSS, JavaScript, react Js | C# .Net Maui  **
+- 🎓 Je suis actuellement en train d'apprendre **React js, JavaScript | C#, .Net Maui  **
 - 🔭 Je travaille sur des projets pour améliorer mes compétences en développement web
-- 🌱 Je découvre le monde de la programmation avec passion
+- 🌱 je souhaite passé d'un niveau supperieur dans la conception des logiciel
 - 🌍 Basé à **Douala, Cameroun**
 - 💼 Je cherche à collaborer sur des projets pour **apprendre et progresser**
 - 📫 Comment me contacter : **williamnjandjo@gmail.com**
 - ⚡ Fun fact : **la creativité est la base de tout**
-- 🎯 Objectif 2026 : **Devenir un As de la conception d'application**
+- 🎯 Objectif 2026 : **Devenir un As de la conception d'application mobile & Web**
 
 <br clear="both">
 
@@ -33,7 +33,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
-![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode,dotnet)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,php,git,dotnet,cs,flutter,dart)
 
 
 
@@ -42,6 +42,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Studio ](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 <!-- Alternative avec Skillicons (plus moderne) -->
 
